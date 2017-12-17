@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvpFramework</string>
+    <string name="activity_title">Users</string>
+</resources>
